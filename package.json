@@ -10,12 +10,12 @@
   "author": "Gustavo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borjapazr/adventjs-solutions.git"
+    "url": "git+https://github.com/elmergustavo/Adventjs"
   },
   "bugs": {
-    "url": "https://github.com/borjapazr/adventjs-solutions/issues"
+    "url": "https://github.com/elmergustavo/Adventjs/issues"
   },
-  "homepage": "https://github.com/borjapazr/adventjs-solutions#readme",
+  "homepage": "https://github.com/elmergustavo/Adventjs#readme",
   "main": "makeItSnow.js",
   "engines": {
     "node": ">=12.0.0",
