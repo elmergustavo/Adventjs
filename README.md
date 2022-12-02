@@ -7,7 +7,7 @@
 
 |  #  |     Challenge     | Difficulty[^1] | Solution |
 | :-: | :---------------: | :------------: | :------: |
-| 01  | `Comming soon...` |       -        |    -     |
+| 01  | [¡Automatizando envolver regalos de navidad!]() |       🟢        |    -     |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard 🟣 Very Hard
 
